@@ -11,10 +11,10 @@
 ***
 
 
-`토크나이저` : Subword Text Encoder(서브워드 텍스트 인코더)
-`손실함수` : Sparse Categorical Cross Entropy
-`옵티마이저` : Adam
-`평가지표` : sparse categorical accuracy
+- `토크나이저` : Subword Text Encoder(서브워드 텍스트 인코더)
+- `손실함수` : Sparse Categorical Cross Entropy
+- `옵티마이저` : Adam
+- `평가지표` : sparse categorical accuracy
 
 
 ***
@@ -32,6 +32,6 @@
 
 ## 최종 결과 
 
-![initial]("https://github.com/yyeseull/Side_Project/assets/102211628/c1b7a2f6-4567-4c1c-a7af-bc8222157fe3")
+![initial](https://github.com/yyeseull/Side_Project/assets/102211628/c1b7a2f6-4567-4c1c-a7af-bc8222157fe3)
 
-![initial]("https://github.com/yyeseull/Side_Project/assets/102211628/1c56bc1b-cb7e-4ca5-9405-72ab76b54d52")
+![initial](https://github.com/yyeseull/Side_Project/assets/102211628/1c56bc1b-cb7e-4ca5-9405-72ab76b54d52)
